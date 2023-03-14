@@ -4,7 +4,7 @@
 
 <p>Tecnologias usadas 🔗:</p>
 <ul>
-<li><a href="https://www.w3schools.com/js/default.asp">JavaScript 🟡</a></li>
+<li><a href="https://www.w3schools.com/js/default.asp" style="color: white;">JavaScript 🟡</a></li>
 <li><a href="https://kaboomjs.com/doc/intro">Kabbom.Js 💣</a></li>
 </ul>
 
